@@ -18,4 +18,4 @@ Una tienda de gorras con muuuuuuucha variedad
 - Carreón soto
 - Cruz Morales
 - Rivera Figueroa
-- Villalba Rabgel (negrita)
+- Villalba Rabgel 
